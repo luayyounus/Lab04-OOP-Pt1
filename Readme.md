@@ -28,7 +28,9 @@
 - Each class you define should have at least 3 methods in it, and 3 properites
 
 - Your drawing of your zoo diagram should be clearly labeled of which classes
-- To 'prove' your inheritance, use Unit tests and console.Writeline statements. 
+
+## Unit Tests
+- Create your unit tests to 'prove' the intheritance. This can be done through return statements that the methods inn the parent classes produce. 
 
 ## ReadMe
 A README is a module consumer's first -- and maybe only -- look into your creation. The consumer wants a module to fulfill their need, so you must explain exactly what need your module fills, and how effectively it does so.
