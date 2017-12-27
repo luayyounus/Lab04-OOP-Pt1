@@ -6,6 +6,7 @@ namespace ZooApp.Classes
 {
     class SouthPacific : Aquaria
     {
+        public string World { get; set; }
         public int Speed { get; set; }
         public string[] Colors { get; set; }
         public float Length { get; set; }
