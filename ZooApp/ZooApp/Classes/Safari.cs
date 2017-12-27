@@ -22,9 +22,9 @@ namespace ZooApp.Classes
             return DateTime.Now.TimeOfDay;
         }
 
-        public bool LearnBehavior()
+        public string LearnAnimalTribe()
         {
-            return true;
+            return "";
         }
     }
 }
