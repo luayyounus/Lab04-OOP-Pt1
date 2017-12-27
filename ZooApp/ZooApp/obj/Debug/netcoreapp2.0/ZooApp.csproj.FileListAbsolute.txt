@@ -1,0 +1,11 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\bin\Debug\netcoreapp2.0\ZooApp.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\bin\Debug\netcoreapp2.0\ZooApp.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\bin\Debug\netcoreapp2.0\ZooApp.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\bin\Debug\netcoreapp2.0\ZooApp.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\bin\Debug\netcoreapp2.0\ZooApp.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\ZooApp\obj\Debug\netcoreapp2.0\ZooApp.pdb
