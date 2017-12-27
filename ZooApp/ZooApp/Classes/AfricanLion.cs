@@ -18,7 +18,7 @@ namespace ZooApp.Classes
             Console.WriteLine("Calm and fearless are two of the Lion's qualities.");
         }
 
-        public bool IsThatAnAfricanLionRhino()
+        public bool IsFriendsWithRhino()
         {
             return false;
         }
