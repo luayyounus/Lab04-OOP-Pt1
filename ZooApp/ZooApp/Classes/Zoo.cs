@@ -14,9 +14,9 @@ namespace ZooApp.Classes
         {
             Console.WriteLine("Let's explore the remaining earthquake shacks and learn about the history of the zoo!");
         }
-        public void Observe()
+        public string Observe()
         {
-            Console.WriteLine("Starring at the animals is so much fun! Look at that monkey monkeying! :)");
+            return "Starring at the animals is so much fun!:)";
         }
 
         public void Pet()
