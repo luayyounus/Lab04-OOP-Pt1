@@ -19,7 +19,7 @@ This is a practice on the OOP inheritance principle building a Zoo and its deriv
 5. You may run the application and read the statements being inherited from parent classes.
 
 ## Diagram
-![Diagram](Zoo-Diagram.png?raw=true "Inheritance")
+![Diagram](Inheritance.jpg?raw=true "Inheritance")
 
 ## Architecture
 - C# Console Core application
