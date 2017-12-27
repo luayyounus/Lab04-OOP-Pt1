@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class AfricanLion : Safari
+    public class AfricanLion : Safari
     {
         private TimeSpan visitTime;
         public TimeSpan VisitTime

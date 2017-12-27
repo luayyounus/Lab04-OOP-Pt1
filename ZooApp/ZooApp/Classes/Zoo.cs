@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Zoo
+    public class Zoo
     {
         public string Name { get; set; }
         public int NumberOfAnimals { get; set; }

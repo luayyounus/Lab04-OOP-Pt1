@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Reptilia : Niagara
+    public class Reptilia : Niagara
     {
         public bool AnimalExistance { get; set; }
         public int NumberOfGame { get; set; }
@@ -12,6 +12,7 @@ namespace ZooApp.Classes
         public void DoActivity()
         {
             base.TakeARide();
+            Console.WriteLine("This Take a ride method is being inherited from Zoo class!");
         }
 
         public bool IsAThing()

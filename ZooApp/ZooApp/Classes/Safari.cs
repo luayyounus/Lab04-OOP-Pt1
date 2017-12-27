@@ -4,13 +4,17 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    abstract class Safari : Zoo
+    public abstract class Safari : Zoo
     {
         public string Theme { get; set; }
 
         public bool Desert { get; set; }
 
-        public int DangerLevel { get; set; }
+        public int DangerLevel
+        {
+            get { return 10; }
+            set { value = 10; }
+        }
 
         public void WatchAnimals()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class Niagara : Safari
+    public class Niagara : Safari
     {
         public string ParkInfo { get; set; }
         public int NumberOfRestaurants { get; set; }

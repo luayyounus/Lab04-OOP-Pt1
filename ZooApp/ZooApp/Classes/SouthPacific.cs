@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    class SouthPacific : Aquaria
+    public class SouthPacific : Aquaria
     {
         public string World { get; set; }
         public int Speed { get; set; }
