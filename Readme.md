@@ -1,55 +1,27 @@
+# OOP Inheritance Project
 
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 4 : I Built A Zoo!
-=====================================
+**Author**: Luay Younus
+**Version**: 1.0
 
-## To Submit this Assignment
-- fork this repository
-- create a new branch named `lab01-`; + `<your name>` **e.g.** `lab01-amanda`
-- write your code
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-- Include a Readme.md (contents described below)
+## Overview
+This is a practice on the OOP inheritance principle building a Zoo and its derivatives.
+[Note that some information are inaccurate and only used for practicing purposes]
 
-## Directions
+## Requirements to run the Application
+- [Visual Studio 2017 Community with .NET Core 2.0 SDK](https://www.microsoft.com/net/core#windowscmd)
+- [GitBash / Terminal](https://git-scm.com/downloads) or [GitHub Extension for Visual Studio](https://visualstudio.github.com)
 
-- Using the Object Oriented Principles (OOPs): Inhertiance and Abstraction -- 
-- Build out the hierarchical class structure of a zoo. There should be at least 3 layers of inheritance with at least 6 different types of animals. 
-- Show inheritance by using `Console.WriteLine()` as neccesary to prove that a methods were propertly implemented or inherited.
-    - Examples include: `Eat()` `Sleep()` `Sound()` etc... 
-    - You are allowed to use these example methods, along with others not listed
-- Be sure to include a diagram with your solution of how your zoo is mapped out. 
-	- Make this is drawn out diagram electronically. Showcase this in your readme document. 
-- Label the abstract methods and classes as neccesary and be sure to clearly show the inheritance levels. 
+## Getting Started
+1. Clone the repository to your local machine.
+2. Cd into the application directory where the `AppName.sln` exist.
+3. Open the application using `Open/Start AppName.sln`.
+4. You will find a folder with a number of Classes that inherit from each others.
+5. You may run the application and read the statements being inherited from parent classes.
 
-## Components
-- Have at least 3 different abstract classes
-- Have at least 3 layers of inheritance
-- Each class you define should have at least 3 methods in it, and 3 properites
+## Diagram
+![Diagram](Zoo-Diagram.png?raw=true "Inheritance")
 
-- Your drawing of your zoo diagram should be clearly labeled of which classes
-
-## Unit Tests
-- Create your unit tests to 'prove' the intheritance. This can be done through return statements that the methods inn the parent classes produce. 
-
-## ReadMe
-A README is a module consumer's first -- and maybe only -- look into your creation. The consumer wants a module to fulfill their need, so you must explain exactly what need your module fills, and how effectively it does so.
-<br />
-Your job is to
-1. tell them what it is (with context)
-2. show them what it looks like in action
-3. show them how they use it
-4. tell them any other relevant details
-<br />
-
-This is ***your*** job. It's up to the module creator to prove that their work is a shining gem in the sea of slipshod modules. 
-Since so many developers' eyes will find their way to your README before anything else, quality here is your public-facing measure of your work.
-
-<br /> Refer to the sample-README in the class repo for an example. 
-- [Reference](https://github.com/noffle/art-of-readme)
-
-## Rubric
-- 7pts: Program meets all requirements described in Lab directions
-- 3pts: Code meets industry standards
-
-- **Readme.md and unit tests required for submission. Missing readme document will result in a best score of 2/10**
+## Architecture
+- C# Console Core application
+- Inheritance is the dominant subject in this application
+- Base/Parent class is Zoo, Safari and Aquaria are the first two derived Classes
