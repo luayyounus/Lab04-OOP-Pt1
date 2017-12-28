@@ -4,16 +4,13 @@ using System.Text;
 
 namespace ZooApp.Classes
 {
-    public class Zoo
+    public abstract class Zoo
     {
         public string Name { get; set; }
         public int NumberOfAnimals { get; set; }
         public bool SouvenirShop { get; set; }
 
-        public void Explore()
-        {
-            Console.WriteLine("Let's explore the remaining earthquake shacks and learn about the history of the zoo!");
-        }
+        public abstract void Explore();
         public string Observe()
         {
             return "Starring at the animals is so much fun!:)";
