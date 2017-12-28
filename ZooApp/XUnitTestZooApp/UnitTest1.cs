@@ -22,6 +22,17 @@ namespace XUnitTestZooApp
             Assert.True(result);
         }
 
+        [Fact]
+        public void ReturnReptilitaIsNotAThing()
+        {
+            // Arrange
+            Reptilia reptilia = new Reptilia();
 
+            // Act
+            bool result = reptilia.IsAThing();
+
+            // Assert
+            Assert.False(result);
+        }
     }
 }
