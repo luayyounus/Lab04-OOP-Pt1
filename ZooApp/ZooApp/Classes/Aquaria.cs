@@ -19,5 +19,10 @@ namespace ZooApp.Classes
         {
             return Observe();
         }
+
+        public override void Explore()
+        {
+            Console.WriteLine("I Explore Aquariums by overriding stuff.");
+        }
     }
 }
