@@ -10,6 +10,12 @@ namespace ZooApp.Classes
         public int NumberOfRestaurants { get; set; }
         public bool LockersAvailability { get; set; }
 
+        public override void Explore()
+        {
+            Console.WriteLine("Overriding again down from the Zoo base class.");
+            base.Explore();
+        }
+
         public void DemonstratePreyFlying()
         {
             Console.WriteLine("Birds soaring high... found a prey! Swooosh, yummm :)");
