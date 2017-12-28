@@ -6,19 +6,23 @@ namespace ZooApp.Classes
 {
     class Shark : SouthPacific
     {
-        private int speed;
+        public int Speed;
         public bool Friendly { get; set; }
         public string Species { get; set; }
-
-        public int Speed
-        {
-            get { return this.speed; }
-            set { this.speed = base.Speed; }
-        }
 
         public void FindSharks()
         {
             Console.WriteLine("Sharks are scary and finding them is scarier.");
+        }
+
+        public void Speak()
+        {
+            Console.WriteLine("Sharks like talking!");
+        }
+
+        public bool EatHumans()
+        {
+            return true;
         }
     }
 }
