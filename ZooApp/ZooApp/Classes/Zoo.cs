@@ -11,6 +11,7 @@ namespace ZooApp.Classes
         public bool SouvenirShop { get; set; }
 
         public abstract void Explore();
+
         public string Observe()
         {
             return "Starring at the animals is so much fun!:)";
