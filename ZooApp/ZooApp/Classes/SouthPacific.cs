@@ -11,12 +11,14 @@ namespace ZooApp.Classes
         public string[] Colors { get; set; }
         public float Length { get; set; }
 
-        public void MatchWithNemo(int speed)
+        public bool CanNemoSwim(int speed)
         {
-            if (speed == this.Speed)
+            if (this.Speed % speed == 0)
             {
-                Console.WriteLine("Match!!!");
+                Console.WriteLine("Nemo can swim at this current speed!!!");
+                return true;
             }
+            return false;
         }
 
         public string NumberOfRareAnimal(string fish)

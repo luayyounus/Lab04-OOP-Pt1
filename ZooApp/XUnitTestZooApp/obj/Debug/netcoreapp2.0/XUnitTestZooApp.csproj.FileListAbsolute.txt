@@ -1,0 +1,16 @@
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.csprojResolveAssemblyReference.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.csproj.CoreCompileInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.AssemblyInfoInputs.cache
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.AssemblyInfo.cs
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\XUnitTestZooApp.deps.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\XUnitTestZooApp.runtimeconfig.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\XUnitTestZooApp.runtimeconfig.dev.json
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\XUnitTestZooApp.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\XUnitTestZooApp.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\ZooApp.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\bin\Debug\netcoreapp2.0\ZooApp.pdb
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.dll
+C:\Users\Luay\Dropbox\401dotNet\Projects\Labs\Lab04-OOP-Pt1\ZooApp\XUnitTestZooApp\obj\Debug\netcoreapp2.0\XUnitTestZooApp.pdb

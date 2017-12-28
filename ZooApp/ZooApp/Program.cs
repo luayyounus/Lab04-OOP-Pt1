@@ -9,12 +9,6 @@ namespace ZooApp
         {
             Console.WriteLine("Welcome the world of Inheritance!");
 
-            Zoo seattleZoo = new Zoo();
-            seattleZoo.SouvenirShop = true;
-            seattleZoo.NumberOfAnimals = 324;
-
-            seattleZoo.Observe();
-
             Reptilia reptilia = new Reptilia();
             reptilia.DoActivity();
 
@@ -22,7 +16,7 @@ namespace ZooApp
             southPacificAquaria.Speed = 30;
 
             Console.Write("Setting speed and checking if it's a match then we found Nemo! - Result: ");
-            southPacificAquaria.MatchWithNemo(30);
+            southPacificAquaria.CanNemoSwim(30);
 
             Zebra someZebra = new Zebra();
             someZebra.CheckMinimumDangerLevel();
